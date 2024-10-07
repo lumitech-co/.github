@@ -1,3 +1,5 @@
+![Banner](https://github.com/user-attachments/assets/4028f3af-2718-4dca-81a6-b2500bc22d65)
+
 GitHub is our primary version control system. You can explore a range of past and ongoing projects within the organization's repositories.
 
 ## 📚 Guidelines
