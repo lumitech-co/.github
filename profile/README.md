@@ -4,7 +4,7 @@ GitHub is our primary version control system. You can explore a range of past an
 
 ## 📚 Guidelines
 - [Web](https://www.notion.so/lumitech/Web-Guidelines-5a622d0c4d4d44bfb8b41a5fbbfd6e35)
-- [Mobile](https://www.notion.so/lumitech/Mobile-Guidelines-2476f13f06c041d9ab818e510971c496)
+- [Mobile](https://www.notion.so/lumitech/Mobile-Guidelines-1132b58051d580f48193c7733be48ac3)
 
 ## 📦 Templates
 - [Next.js](https://github.com/lumitech-co/lumitech-react-nextjs-template)
