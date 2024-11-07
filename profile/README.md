@@ -16,9 +16,11 @@ GitHub is our primary version control system. You can explore a range of past an
   - [Notion guide](https://www.notion.so/lumitech/Auth-1062b58051d580e9a2a7d8d34e994f02?pvs=4)
   - [Web repo](https://github.com/lumitech-co/auth-tutorial)
   - [API repo](https://github.com/lumitech-co/auth-api-tutorial)
+
 - Theming
   - [Notion guide](https://github.com/lumitech-co/theming-tutorial)
   - [Web repo](https://github.com/lumitech-co/theming-tutorial)
+
 - Internationalization
   - [Notion guide](https://github.com/lumitech-co/internationalization-tutorial)
   - [Web repo](https://github.com/lumitech-co/internationalization-tutorial)
