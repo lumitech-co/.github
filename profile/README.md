@@ -10,7 +10,7 @@ GitHub is our primary version control system. You can explore a range of past an
 - [Next.js](https://github.com/lumitech-co/lumitech-react-nextjs-template)
 - [Fastify](https://github.com/lumitech-co/lumitech-api-template-fastify)
 - [Python](https://github.com/lumitech-co/lumitech-python-template)
-- [React Native](https://github.com/lumitech-co/lumitech-react-native-template)
+- [React Native](https://github.com/lumitech-co/react-native-template)
 
 ## 📚 Tutorials
 - Auth
