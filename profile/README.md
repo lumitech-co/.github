@@ -1,4 +1,4 @@
-![Banner](https://github.com/user-attachments/assets/4028f3af-2718-4dca-81a6-b2500bc22d65)
+![Upwork (10)](https://github.com/user-attachments/assets/a5f35044-8dab-4061-bf10-3f795c9837bb)
 
 Lumitech is a custom software development company providing professional services worldwide. We partner with technology businesses globally helping them to build successful engineering teams and create innovative software products.
 We’re a global team of software engineers, AI and ML specialists, product managers, and technology experts who have achieved a 600% growth rate since 2022. When a rocket launches toward the moon, it doesn’t stop halfway. Neither do we.
