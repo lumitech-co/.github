@@ -1,6 +1,6 @@
 ![Banner](https://github.com/user-attachments/assets/4028f3af-2718-4dca-81a6-b2500bc22d65)
 
-GitHub is our primary version control system. You can explore a range of past and ongoing projects within the organization's repositories.
+Lumitech is a custom software development company providing professional services worldwide. We partner with technology businesses globally helping them to build successful engineering teams and create innovative software products. 
 
 ## 💡 Guidelines
 - [Web](https://www.notion.so/lumitech/Web-Guidelines-5a622d0c4d4d44bfb8b41a5fbbfd6e35)
