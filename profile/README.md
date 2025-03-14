@@ -1,6 +1,9 @@
 ![Banner](https://github.com/user-attachments/assets/4028f3af-2718-4dca-81a6-b2500bc22d65)
 
-Lumitech is a custom software development company providing professional services worldwide. We partner with technology businesses globally helping them to build successful engineering teams and create innovative software products. 
+Lumitech is a custom software development company providing professional services worldwide. We partner with technology businesses globally helping them to build successful engineering teams and create innovative software products.
+We’re a global team of software engineers, AI and ML specialists, product managers, and technology experts who have achieved a 600% growth rate since 2022. When a rocket launches toward the moon, it doesn’t stop halfway. Neither do we.
+
+GitHub is our primary version control platform, serving as a central hub for collaboration and knowledge sharing. Within our organization, we maintain key documents, technical guides, and best practices to ensure consistency, efficiency, and streamlined development workflows across our engineering team. This structured approach fosters transparency, accelerates onboarding, and enhances code quality while promoting a culture of continuous improvement.
 
 ## 💡 Guidelines
 - [Web](https://www.notion.so/lumitech/Web-Guidelines-5a622d0c4d4d44bfb8b41a5fbbfd6e35)
@@ -10,4 +13,4 @@ Lumitech is a custom software development company providing professional service
 - [Next.js](https://github.com/lumitech-co/lumitech-react-nextjs-template)
 - [Fastify](https://github.com/lumitech-co/lumitech-api-template-fastify)
 - [Python](https://github.com/lumitech-co/lumitech-python-template)
-- [React Native](https://github.com/lumitech-co/react-native-template)
+- [React Native](https://github.com/lumitech-co/lumitech-react-native-template)
