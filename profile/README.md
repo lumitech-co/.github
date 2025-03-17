@@ -11,6 +11,6 @@ GitHub is our primary version control platform, serving as a central hub for col
 
 ## 📦 Templates
 - [Next.js](https://github.com/lumitech-co/lumitech-react-nextjs-template)
-- [Fastify](https://github.com/lumitech-co/lumitech-api-template-fastify)
+- [Fastify](https://github.com/lumitech-co/lumitech-node-fastify-template)
 - [Python](https://github.com/lumitech-co/lumitech-python-template)
 - [React Native](https://github.com/lumitech-co/lumitech-react-native-template)
