@@ -6,8 +6,8 @@ We’re a global team of software engineers, AI and ML specialists, product mana
 GitHub is our primary version control platform, serving as a central hub for collaboration and knowledge sharing. Within our organization, we maintain key documents, technical guides, and best practices to ensure consistency, efficiency, and streamlined development workflows across our engineering team. This structured approach fosters transparency, accelerates onboarding, and enhances code quality while promoting a culture of continuous improvement.
 
 ## 💡 Guidelines
-- [Web](https://www.notion.so/lumitech/Web-Guidelines-5a622d0c4d4d44bfb8b41a5fbbfd6e35)
-- [Mobile](https://www.notion.so/lumitech/Mobile-Guidelines-1132b58051d580f48193c7733be48ac3)
+- [Web](https://www.lumitech.co/Web-Guidelines-5a622d0c4d4d44bfb8b41a5fbbfd6e35)
+- [Mobile](https://www.lumitech.co/Mobile-Guidelines-1132b58051d580f48193c7733be48ac3)
 
 ## 📦 Templates
 - [Next.js](https://github.com/lumitech-co/lumitech-react-nextjs-template)
